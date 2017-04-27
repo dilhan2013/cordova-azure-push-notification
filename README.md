@@ -11,3 +11,7 @@ What you will need?
 - Your backend Api (We will call Azure REST APIs from our backend service to register and unregister devices with Azure Notification Hub)
 
 ## Auzre notification hub
+
+## Debug Azure notification hubs
+
+Notification hubs can be viewed using Visual Studio or using Service Bus Explorer. [This link](https://msdn.microsoft.com/en-us/library/azure/dn530751.aspx) has more information.
