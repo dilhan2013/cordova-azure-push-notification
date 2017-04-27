@@ -6,7 +6,7 @@ Goal of this document is to provide information required to implement cross plat
 
 What you will need?
 - Azure account (Using azure free account you can send up to 1 million push notifications. See pricing details [here](https://azure.microsoft.com/en-au/pricing/details/notification-hubs/))
-- [Cordova phone gap plugin](https://github.com/phonegap/phonegap-plugin-push)
+- [Cordova push plugin](https://github.com/phonegap/phonegap-plugin-push)
 - Your cordova application
 - Your backend Api (We will call Azure REST APIs from our backend service to register and unregister devices with Azure Notification Hub)
 
