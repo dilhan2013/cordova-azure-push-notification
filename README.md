@@ -12,6 +12,9 @@ What you will need?
 
 ## Auzre notification hub
 
+### Apple Push Notifications
+You have to use development certificate when testing and switch to production certificate when the app is deployed to App store.
+
 ## Debug Azure notification hubs
 
 Notification hubs can be viewed using Visual Studio or using Service Bus Explorer. [This link](https://msdn.microsoft.com/en-us/library/azure/dn530751.aspx) has more information.
