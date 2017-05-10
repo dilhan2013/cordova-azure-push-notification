@@ -19,3 +19,10 @@ You have to use development certificate when testing and switch to production ce
 ## Debug Azure notification hubs
 
 Notification hubs can be viewed using Visual Studio or using Service Bus Explorer. [This link](https://msdn.microsoft.com/en-us/library/azure/dn530751.aspx) has more information.
+
+## Some Tips 
+You have to handle the notification in following senarios,
+- Notification received while app is in background
+- Notification received while app is running in forground (when the user currently working in the app)
+- Notification received while app is not running (not even in background)
+
