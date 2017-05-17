@@ -15,7 +15,7 @@ Configure Windows, Goole and Apple notification hubs using the portal
 
 ### Apple Push Notifications
 You have to use development certificate when testing and switch to production certificate when the app is deployed to App store.
-Note:
+Note: Same notification certificate will not work in both dev and production environment
 
 ## Debug Azure notification hubs
 
